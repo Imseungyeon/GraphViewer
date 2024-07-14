@@ -1,0 +1,22 @@
+/* #sinContainer {
+    position: relative;
+    height: 400px;
+    min-width: 600px;
+}
+#randomContainer {
+    position: relative;
+    height: 400px;
+    min-width: 600px;
+}
+#stepContainer {
+    position: relative;
+    height: 400px;
+    min-width: 600px;
+} */
+
+.forn-wrap{
+	text-align: left;
+}
+.stop-wrap{
+    text-align: right;
+}
